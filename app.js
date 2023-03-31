@@ -40,10 +40,20 @@ const uzbCars = ["cobalt", "spark"];
 const allCars = cars.concat(uzbCars);
 console.log(allCars);
 
+const text = document.querySelector(".text").innerHTML;
+let num = 0;
 
-const text = document.querySelector(".text")
+// for 
 
-for (let index = 0; i < text.length; index++) {
-    const element = array[i];
-    console.log(element);
-}
+// for (let i = 0; i < text.length; i++) {
+//   const element = text[i];
+
+//   if (element == "") {
+//     num++;
+// }
+
+// }
+// console.log(num);
+
+
+// 
