@@ -56,4 +56,12 @@ let num = 0;
 // console.log(num);
 
 
-// 
+// forof
+
+for (const key of text) {
+    if(key == "m") {
+        num++
+    }
+}
+
+console.log(num);
